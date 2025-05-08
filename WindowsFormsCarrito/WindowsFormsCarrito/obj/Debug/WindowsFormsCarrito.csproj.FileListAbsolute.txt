@@ -1,0 +1,13 @@
+C:\Users\Equipo\Desktop\jesus\Programas\WindowsFormsCarrito\WindowsFormsCarrito\bin\Debug\WindowsFormsCarrito.exe.config
+C:\Users\Equipo\Desktop\jesus\Programas\WindowsFormsCarrito\WindowsFormsCarrito\bin\Debug\WindowsFormsCarrito.exe
+C:\Users\Equipo\Desktop\jesus\Programas\WindowsFormsCarrito\WindowsFormsCarrito\bin\Debug\WindowsFormsCarrito.pdb
+C:\Users\Equipo\Desktop\jesus\Programas\WindowsFormsCarrito\WindowsFormsCarrito\obj\Debug\WindowsFormsCarrito.csproj.AssemblyReference.cache
+C:\Users\Equipo\Desktop\jesus\Programas\WindowsFormsCarrito\WindowsFormsCarrito\obj\Debug\WindowsFormsCarrito.Properties.Resources.resources
+C:\Users\Equipo\Desktop\jesus\Programas\WindowsFormsCarrito\WindowsFormsCarrito\obj\Debug\WindowsFormsCarrito.csproj.GenerateResource.cache
+C:\Users\Equipo\Desktop\jesus\Programas\WindowsFormsCarrito\WindowsFormsCarrito\obj\Debug\WindowsFormsCarrito.csproj.CoreCompileInputs.cache
+C:\Users\Equipo\Desktop\jesus\Programas\WindowsFormsCarrito\WindowsFormsCarrito\obj\Debug\WindowsFormsCarrito.exe
+C:\Users\Equipo\Desktop\jesus\Programas\WindowsFormsCarrito\WindowsFormsCarrito\obj\Debug\WindowsFormsCarrito.pdb
+C:\Users\Equipo\Desktop\jesus\Programas\WindowsFormsCarrito\WindowsFormsCarrito\bin\Debug\Entidades.dll
+C:\Users\Equipo\Desktop\jesus\Programas\WindowsFormsCarrito\WindowsFormsCarrito\bin\Debug\Entidades.pdb
+C:\Users\Equipo\Desktop\jesus\Programas\WindowsFormsCarrito\WindowsFormsCarrito\obj\Debug\WindowsFormsCarrito.FormCarrito.resources
+C:\Users\Equipo\Desktop\jesus\Programas\WindowsFormsCarrito\WindowsFormsCarrito\obj\Debug\WindowsF.A85462B8.Up2Date

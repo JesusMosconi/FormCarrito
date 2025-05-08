@@ -1,0 +1,6 @@
+C:\Users\Equipo\Desktop\jesus\Programas\WindowsFormsCarrito\Entidades\bin\Debug\Entidades.dll
+C:\Users\Equipo\Desktop\jesus\Programas\WindowsFormsCarrito\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Equipo\Desktop\jesus\Programas\WindowsFormsCarrito\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Equipo\Desktop\jesus\Programas\WindowsFormsCarrito\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Equipo\Desktop\jesus\Programas\WindowsFormsCarrito\Entidades\obj\Debug\Entidades.dll
+C:\Users\Equipo\Desktop\jesus\Programas\WindowsFormsCarrito\Entidades\obj\Debug\Entidades.pdb

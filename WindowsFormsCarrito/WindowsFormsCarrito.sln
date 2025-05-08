@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsCarrito", "WindowsFormsCarrito\WindowsFormsCarrito.csproj", "{457DEF3C-52A5-4A46-AD01-6B0B5DECF6CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{9F811A46-A8D5-4391-ACC9-81C596F203B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{457DEF3C-52A5-4A46-AD01-6B0B5DECF6CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{457DEF3C-52A5-4A46-AD01-6B0B5DECF6CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{457DEF3C-52A5-4A46-AD01-6B0B5DECF6CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{457DEF3C-52A5-4A46-AD01-6B0B5DECF6CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F811A46-A8D5-4391-ACC9-81C596F203B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F811A46-A8D5-4391-ACC9-81C596F203B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F811A46-A8D5-4391-ACC9-81C596F203B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F811A46-A8D5-4391-ACC9-81C596F203B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {251B0323-D33B-4BD4-8B20-DD2340A69D26}
+	EndGlobalSection
+EndGlobal
